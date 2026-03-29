@@ -16,7 +16,7 @@
 </p>
 
 ## Books
-
+* [Linux Kernel Programming: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226)
 
 
 ##
