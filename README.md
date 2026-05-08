@@ -20,9 +20,17 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-## Books
+## 📖 Contents
+- [Books](#books)
+- [Videos](#videos)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+### Books
 * [Linux Kernel Programming: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226)
 
+### Videos
 
 ##
 
