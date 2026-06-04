@@ -31,7 +31,7 @@
 * [Linux Kernel Programming: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226)
 
 ### Videos
-
+* 
 ##
 
 ### My Other Awesome Lists
@@ -42,5 +42,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-linux-kernel-development-resources/graphs/contributors)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-reverse-engineering/graphs/contributors)!
 
 [🔼 Back to top](#awesome-linux-kernel-development-resources)
