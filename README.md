@@ -29,6 +29,8 @@
 
 ### Books
 * [Linux Kernel Programming: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226)
+* [Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization: Create user-kernel interfaces, work with peripheral I/O, and handle hardware interrupts](https://www.amazon.com/Linux-Kernel-Programming-Part-Synchronization-ebook/dp/B08ZSV58G8)
+* [Understanding the Linux Kernel: From I/O Ports to Process Management](https://www.amazon.com/Understanding-Linux-Kernel-Process-Management-ebook/dp/B0043D2E54)
 
 ### Videos
 * 
